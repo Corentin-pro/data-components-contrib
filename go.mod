@@ -1,4 +1,4 @@
-module github.com/spiceai/data-components-contrib
+module github.com/corentin-pro/data-components-contrib
 
 go 1.17
 
